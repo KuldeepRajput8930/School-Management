@@ -12,7 +12,7 @@
                 MYSQL_PASSWORD = 'sic mundus'
                 MYSQL_DATABASE = 'student_fee'
 
-3. Open studentinfo.py and replace the below given details with your database details.
+3. Open student_info.py and replace the below given details with your database details.
 
                 host="localhost",
                 user="root",
